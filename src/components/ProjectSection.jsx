@@ -19,11 +19,11 @@ const projects = [
   },
   {
     id: 3,
-    title: "CRUD Book Library Web Page",
+    title: "T Shirt Customization UI",
     description:
-      "Book Library app with complete CRUD operations and secure user registry and login",
+      "T Shirt Customizer UI with 3D images and animation where the user is able to change the color, choose a custom logo and pick the logo location.",
     images: ["/projects/project3.png", "/projects/project3-2.png"], // side by side
-    tags: ["ASP.NET", "MVC", "C#"],
+    tags: ["React.js", "ThreeJS", "JS", "TailwindCSS"],
   },
 ];
 

@@ -12,10 +12,11 @@ const projects = [
   },
   {
     id: 2,
-    title: "Finance Tracker UI",
-    description: "UI for tracking expenses and setting budget",
-    image: "/projects/project2.png", // single image (still supported)
-    tags: ["React.js", "HTML", "CSS", "Bootstrap"],
+    title: "NeuroPulse",
+    description:
+      "Modern React + Vite UI for an AI chat app—animated hero, parallax visuals, notifications, benefits grid, pricing, and responsive layout with Tailwind.",
+    images: ["/projects/project2.png", "/projects/project2-2.png"], // single image (still supported)
+    tags: ["React.js", "Vite", "Tailwindcss"],
   },
   {
     id: 3,
